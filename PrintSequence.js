@@ -1,3 +1,3 @@
-for(i=4; i > -3.6; i - 1.5){
+for(i=4; i>-4; i-=1.5) {
     console.log(i);
 }
